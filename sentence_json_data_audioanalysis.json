@@ -1,0 +1,57 @@
+[
+  {
+    "start": 11000,
+    "end": 11750,
+    "duration": 750
+  },
+  {
+    "start": 21000,
+    "end": 21800,
+    "duration": 800
+  },
+  {
+    "start": 49150,
+    "end": 49700,
+    "duration": 550
+  },
+  {
+    "start": 53700,
+    "end": 54450,
+    "duration": 750
+  },
+  {
+    "start": 61350,
+    "end": 61900,
+    "duration": 550
+  },
+  {
+    "start": 78700,
+    "end": 79350,
+    "duration": 650
+  },
+  {
+    "start": 103750,
+    "end": 104650,
+    "duration": 900
+  },
+  {
+    "start": 114850,
+    "end": 115500,
+    "duration": 650
+  },
+  {
+    "start": 118300,
+    "end": 118900,
+    "duration": 600
+  },
+  {
+    "start": 127100,
+    "end": 127950,
+    "duration": 850
+  },
+  {
+    "start": 132800,
+    "end": 133450,
+    "duration": 650
+  }
+]
